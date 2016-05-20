@@ -12,7 +12,7 @@ packages=(
   gulp
   http-server
   nodemon
-  release-it
+  # release-it
   spot
   svgo
   tldr
